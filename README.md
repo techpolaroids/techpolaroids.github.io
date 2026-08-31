@@ -4,7 +4,7 @@
 
 > A diary somewhere between a devlog and a shoebox, where unfinished ideas, strange project names, rebuilds, mistakes, and beautiful technical detours get to stay.
 
-![TechPolaroids website preview](techpolaroids-preview-img.png)
+![TechPolaroids website preview](assets/techpolaroids-preview-img.png)
 
 ## About the project
 

@@ -475,6 +475,9 @@
         color: var(--ink);
         transform: translateY(-1px);
       }
+      .nav-links a::after {
+            content:"";position:absolute;left:0;right:100%;bottom:-2px;height:1px;background:var(--golden);transition:right .35s var(--ease)
+      }
       .cat-toggle {
         cursor: pointer;
         background: 0 0;
